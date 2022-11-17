@@ -35,6 +35,8 @@ Tema: Análisis de Mallas
 
 # 3.  PROCEDIMIENTO
 
+2.5.1. Implemente el circuito que se presenta en la figura 2.1.
+
 # 4. CONCLUSIONES 
 •En conclusión, esta práctica nos permitió aplicar la ley de corriente de Kirchhoff en cada malla del circuito, mediante esto pudimos observar que el análisis de mallas se puede ir calculando en partes, lo cual nos permite resolver este tipo de circuitos de una manera rápida y sencilla.
 
