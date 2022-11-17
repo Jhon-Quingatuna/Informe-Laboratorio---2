@@ -67,7 +67,7 @@ malla3
 
 ![image](https://user-images.githubusercontent.com/116813974/202571049-b5adde6d-3763-4789-a8cf-af917b89a30b.png)
 
-
+![image](https://user-images.githubusercontent.com/116813974/202572813-e2b60754-73da-4502-892d-33e7783410ec.png)
 
 
 
